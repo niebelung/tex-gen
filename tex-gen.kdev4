@@ -1,0 +1,4 @@
+[Project]
+Name=tex-gen
+Manager=KDevCMakeManager
+VersionControl=kdevgit
